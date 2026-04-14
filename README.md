@@ -6,5 +6,5 @@ A collection of scripts ive got made because some shit pisses me off sometimes a
 ------------
 
 # honorable mentions
-[Update by alias (php -> php-8.1)](https://github.com/0XC7R/Update-by-alias)
+[Update by alias (php -> php-8.1)](https://github.com/0XC7R/Update-by-alias) <br>
 [Proxychains4 -> tor nodes (Tornet x Proxychains)](https://github.com/0XC7R/Tornet-x-Proxychains)
